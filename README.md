@@ -9,7 +9,7 @@ Takes a list of domains and checks the availability status based on the [Domainr
 
 You need to have [Go installed](https://golang.org/doc/install) and configured (i.e. with $GOPATH/bin in your $PATH):
 
-`go get -u github.com/cybercdh/checkdomain`
+`go install github.com/cybercdh/checkdomain@latest`
 
 ## Configuration
 
